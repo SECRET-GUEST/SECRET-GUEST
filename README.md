@@ -1,7 +1,5 @@
 ![1](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/952c2779-3fd6-40c0-9a20-45debd806171)
-[[snake.webm](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/840ffbc6-92c7-4c2e-8c8b-0d17d89bfeb9)](https://codepen.io/SECRET-GUEST/pen/LYMdgGY
-)
-
+[[snake.webm](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/840ffbc6-92c7-4c2e-8c8b-0d17d89bfeb9)]
 
 <!--
 
