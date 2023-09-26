@@ -1,6 +1,4 @@
 ![1](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/952c2779-3fd6-40c0-9a20-45debd806171)
-[Voici mon autre projet sur CodePen](https://codepen.io/SECRET-GUEST/pen/LYMdgGY)
-
 
 <!--
 
