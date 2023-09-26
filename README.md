@@ -4,7 +4,7 @@
 
 ![snake](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/9dec6793-b0ec-4188-8215-e8ff5a537fc2)
 
-[Snake code vailable here](https://codepen.io/SECRET-GUEST/pen/LYMdgGY)
+[Snake code available here](https://codepen.io/SECRET-GUEST/pen/LYMdgGY)
 
 <!--
 
