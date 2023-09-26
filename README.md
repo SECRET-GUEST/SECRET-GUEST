@@ -1,6 +1,6 @@
 ![snake](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/9dec6793-b0ec-4188-8215-e8ff5a537fc2)
 
-![1](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/952c2779-3fd6-40c0-9a20-45debd806171)
+    ![1](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/952c2779-3fd6-40c0-9a20-45debd806171)
 
 ![snake](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/9dec6793-b0ec-4188-8215-e8ff5a537fc2)
 
