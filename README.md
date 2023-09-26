@@ -1,18 +1,13 @@
 ![1](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/952c2779-3fd6-40c0-9a20-45debd806171)
 
 
-<video autoPlay loop muted playsInline>
-  <source src="https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/3129b369-1de0-49e8-8679-23ffd6f98de2" type="video/webm" />
-  Your browser does not support the video tag.
-</video>
-
+<video  loop="loop" src="https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/3129b369-1de0-49e8-8679-23ffd6f98de2"></video>
 
  
 [Snake code vailable here](https://codepen.io/SECRET-GUEST/pen/LYMdgGY)
 <!--
-<video src="https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/3129b369-1de0-49e8-8679-23ffd6f98de2" autoplay loop ></video>
-
 [snake.webm](https://github.com/SECRET-GUEST/SECRET-GUEST/assets/92639080/3129b369-1de0-49e8-8679-23ffd6f98de2)
+
 
 
 ```
