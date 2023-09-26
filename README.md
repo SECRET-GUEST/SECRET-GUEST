@@ -2,10 +2,6 @@
 [Voici mon autre projet sur CodePen](https://codepen.io/SECRET-GUEST/pen/LYMdgGY)
 
 
-<iframe height="400" style="width:100%" scrolling="no" title="Nom de votre second projet" src="https://codepen.io/SECRET-GUEST/embed/LYMdgGY?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen [Nom de votre second projet](https://codepen.io/SECRET-GUEST/pen/LYMdgGY) by Secret Guest.
-</iframe>
-
 <!--
 
 ```
